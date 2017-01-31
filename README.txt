@@ -1,4 +1,5 @@
-# Node relational DB Test - customer, order example
+DB-Module: sqlite3 
+Node relational DB Test - customer, order, product example
 
 ER - Diagram:
 
